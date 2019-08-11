@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5b856a33004cde148ab1ff457bf52653
+labels:
+- gpsr
+folderAsset: yes
+timeCreated: 1489233497
+licenseType: Pro
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

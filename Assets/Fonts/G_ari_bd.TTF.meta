@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: efd8f325256a38747bd16196d41b21a7
+timeCreated: 1519292414
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arial GEO
+  fontNames:
+  - Arial GEO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 26f7c37316e882049bb088f822c09981, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

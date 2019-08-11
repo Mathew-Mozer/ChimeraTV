@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DisplayManager
+  - SilverCoinDeposit
+  - GameManager
+  - MainWindow
+  - Digit
+  - TableSign
+  - FlyingCard
+  - CardGrid
+  - Effect
+  - Skinnable
+  - Skin
+  - TreasureCrateManager
+  - HighHandManager
+  - debuglog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - line
+  - Particles
+  - Menu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Top
+    uniqueID: 876317849
+    locked: 0

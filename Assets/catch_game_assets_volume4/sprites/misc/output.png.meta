@@ -1,0 +1,4136 @@
+fileFormatVersion: 2
+guid: cfda1da96b789418f8b782b31e6e2c37
+timeCreated: 1444210683
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stadium.png
+    21300002: bgMenu.png
+    21300004: title.png
+    21300006: g6500.png
+    21300008: g6436.png
+    21300010: g8730.png
+    21300012: image8772.png
+    21300014: g23207.png
+    21300016: glove_icon.png
+    21300018: rect8262.png
+    21300020: rect8180.png
+    21300022: rect12695.png
+    21300024: g23196.png
+    21300026: g23185.png
+    21300028: image8728.png
+    21300030: g23124.png
+    21300032: g23110.png
+    21300034: g8919.png
+    21300036: g9922.png
+    21300038: g8974.png
+    21300040: g8964.png
+    21300042: g23096.png
+    21300044: g8954.png
+    21300046: g8944.png
+    21300048: g23081.png
+    21300050: g8933.png
+    21300052: g8922.png
+    21300054: g8911.png
+    21300056: g23066.png
+    21300058: g8900.png
+    21300060: g23051.png
+    21300062: g8890.png
+    21300064: g8880.png
+    21300066: g8870.png
+    21300068: g8857.png
+    21300070: g8837.png
+    21300072: g8827.png
+    21300074: g8814.png
+    21300076: g8005.png
+    21300078: g7996.png
+    21300080: g23042.png
+    21300082: g7927.png
+    21300084: g7888.png
+    21300086: g7831.png
+    21300088: g7810.png
+    21300090: g7227.png
+    21300092: g7208.png
+    21300094: g7199.png
+    21300096: g7153.png
+    21300098: g7134.png
+    21300100: g23033.png
+    21300102: g7118.png
+    21300104: g7100.png
+    21300106: g7087.png
+    21300108: g7055.png
+    21300110: g7031.png
+    21300112: g18872.png
+    21300114: g18862.png
+    21300116: g18852.png
+    21300118: g18842.png
+    21300120: g18800.png
+    21300122: g18790.png
+    21300124: g18780.png
+    21300126: g18770.png
+    21300128: g18758.png
+    21300130: g18746.png
+    21300132: g18734.png
+    21300134: g18722.png
+    21300136: g18709.png
+    21300138: g18687.png
+    21300140: g18648.png
+    21300142: g18632.png
+    21300144: g18622.png
+    21300146: g18612.png
+    21300148: g18601.png
+    21300150: g18590.png
+    21300152: g18579.png
+    21300154: g18568.png
+    21300156: g18558.png
+    21300158: g18548.png
+    21300160: g18538.png
+    21300162: g18528.png
+    21300164: g18506.png
+    21300166: g18495.png
+    21300168: g23024.png
+    21300170: g18484.png
+    21300172: g18473.png
+    21300174: g18462.png
+    21300176: g18451.png
+    21300178: g18440.png
+    21300180: g18430.png
+    21300182: g18420.png
+    21300184: g18410.png
+    21300186: g18400.png
+    21300188: g18388.png
+    21300190: g23015.png
+    21300192: g18376.png
+    21300194: g18364.png
+    21300196: g18352.png
+    21300198: g18341.png
+    21300200: g18330.png
+    21300202: g18319.png
+    21300204: g18308.png
+    21300206: g18210.png
+    21300208: g18192.png
+    21300210: g18174.png
+    21300212: g23006.png
+    21300214: g18156.png
+    21300216: g16569.png
+    21300218: g16559.png
+    21300220: g16549.png
+    21300222: g16539.png
+    21300224: g16517.png
+    21300226: g16507.png
+    21300228: g16497.png
+    21300230: g15127.png
+    21300232: g15115.png
+    21300234: g15103.png
+    21300236: g15091.png
+    21300238: g15079.png
+    21300240: g15067.png
+    21300242: g15055.png
+    21300244: g15041.png
+    21300246: g14951.png
+    21300248: g14941.png
+    21300250: g14931.png
+    21300252: g14921.png
+    21300254: g14909.png
+    21300256: g14897.png
+    21300258: g14886.png
+    21300260: g14875.png
+    21300262: g14795.png
+    21300264: g14783.png
+    21300266: g14771.png
+    21300268: g14759.png
+    21300270: g14749.png
+    21300272: g14737.png
+    21300274: g14727.png
+    21300276: g14717.png
+    21300278: g14634.png
+    21300280: g14624.png
+    21300282: g14611.png
+    21300284: g14601.png
+    21300286: g14589.png
+    21300288: g22997.png
+    21300290: g14577.png
+    21300292: g14565.png
+    21300294: g14553.png
+    21300296: g14154.png
+    21300298: g14141.png
+    21300300: g14131.png
+    21300302: g14121.png
+    21300304: g14111.png
+    21300306: g14101.png
+    21300308: g14088.png
+    21300310: g14075.png
+    21300312: g22987.png
+    21300314: g13906.png
+    21300316: g13895.png
+    21300318: g13884.png
+    21300320: g13873.png
+    21300322: g13862.png
+    21300324: g13851.png
+    21300326: g13840.png
+    21300328: g13829.png
+    21300330: g11217.png
+    21300332: g11207.png
+    21300334: g11197.png
+    21300336: g11187.png
+    21300338: g11176.png
+    21300340: g11165.png
+    21300342: g11154.png
+    21300344: g11143.png
+    21300346: g11132.png
+    21300348: g11121.png
+    21300350: g11110.png
+    21300352: g11099.png
+    21300354: g11089.png
+    21300356: g11079.png
+    21300358: g11069.png
+    21300360: g11059.png
+    21300362: g11049.png
+    21300364: g11039.png
+    21300366: g11029.png
+    21300368: g11019.png
+    21300370: g11008.png
+    21300372: g10997.png
+    21300374: g10986.png
+    21300376: g10975.png
+    21300378: g10748.png
+    21300380: g10736.png
+    21300382: g10726.png
+    21300384: g10716.png
+    21300386: g10702.png
+    21300388: g10688.png
+    21300390: g10674.png
+    21300392: g10660.png
+    21300394: g22978.png
+    21300396: g10521.png
+    21300398: g10511.png
+    21300400: g10501.png
+    21300402: g10491.png
+    21300404: g10319.png
+    21300406: g10304.png
+    21300408: g10289.png
+    21300410: g10274.png
+    21300412: g22969.png
+    21300414: g22960.png
+    21300416: g22950.png
+    21300418: g22940.png
+    21300420: g22930.png
+    21300422: g22920.png
+    21300424: g22870.png
+    21300426: g22860.png
+    21300428: g22850.png
+    21300430: g22840.png
+    21300432: g8774.png
+    21300434: g22830.png
+    21300436: g22087.png
+    21300438: g22820.png
+    21300440: g22810.png
+    21300442: g22799.png
+    21300444: g22782.png
+    21300446: g22772.png
+    21300448: g22762.png
+    21300450: g22752.png
+    21300452: g22741.png
+    21300454: g22730.png
+    21300456: g22719.png
+    21300458: g22708.png
+    21300460: g22698.png
+    21300462: g22688.png
+    21300464: g22678.png
+    21300466: g22668.png
+    21300468: g22494.png
+    21300470: g22483.png
+    21300472: g22472.png
+    21300474: g22461.png
+    21300476: g22447.png
+    21300478: g22433.png
+    21300480: g22421.png
+    21300482: g22409.png
+    21300484: g22399.png
+    21300486: g22389.png
+    21300488: g22379.png
+    21300490: g22369.png
+    21300492: g22357.png
+    21300494: g22347.png
+    21300496: g22337.png
+    21300498: g22327.png
+    21300500: g22316.png
+    21300502: g22305.png
+    21300504: g22294.png
+    21300506: g22283.png
+    21300508: g22273.png
+    21300510: g22263.png
+    21300512: g22253.png
+    21300514: g22243.png
+    21300516: g22191.png
+    21300518: g22179.png
+    21300520: g22167.png
+    21300522: g22155.png
+    21300524: g22142.png
+    21300526: g22131.png
+    21300528: g22120.png
+    21300530: g22109.png
+    21300532: g22053.png
+    21300534: g22041.png
+    21300536: g22029.png
+    21300538: g22017.png
+    21300540: g22007.png
+    21300542: g21997.png
+    21300544: g21988.png
+    21300546: g21978.png
+    21300548: g21967.png
+    21300550: g21956.png
+    21300552: g21945.png
+    21300554: g21934.png
+    21300556: g21924.png
+    21300558: g21914.png
+    21300560: g21904.png
+    21300562: g21894.png
+    21300564: g21882.png
+    21300566: g21870.png
+    21300568: g21858.png
+    21300570: g21846.png
+    21300572: g21836.png
+    21300574: g21826.png
+    21300576: g21816.png
+    21300578: g21806.png
+    21300580: g21584.png
+    21300582: g21574.png
+    21300584: g21564.png
+    21300586: g21554.png
+    21300588: g21544.png
+    21300590: g21535.png
+    21300592: g21526.png
+    21300594: g21515.png
+    21300596: g21504.png
+    21300598: g21493.png
+    21300600: g21483.png
+    21300602: g21473.png
+    21300604: g21463.png
+    21300606: g21453.png
+    21300608: g21443.png
+    21300610: g21433.png
+    21300612: g21423.png
+    21300614: g21413.png
+    21300616: g21396.png
+    21300618: g21379.png
+    21300620: g21362.png
+    21300622: g21345.png
+    21300624: g21334.png
+    21300626: g21323.png
+    21300628: g21298.png
+    21300630: g21281.png
+    21300632: g21272.png
+    21300634: g21263.png
+    21300636: g21245.png
+    21300638: g9452.png
+    21300640: g9444.png
+    21300642: g9436.png
+    21300644: g9392.png
+    21300646: g23220.png
+    21300648: g23174.png
+    21300650: g23163.png
+    21300652: g23150.png
+    21300654: g23138.png
+    21300656: g22910.png
+    21300658: g22900.png
+    21300660: g22890.png
+    21300662: g22880.png
+    21300664: g22658.png
+    21300666: g22648.png
+    21300668: g22638.png
+    21300670: g22628.png
+    21300672: g22615.png
+    21300674: g22581.png
+    21300676: g22570.png
+    21300678: g22553.png
+    21300680: g22541.png
+    21300682: g22529.png
+    21300684: g22517.png
+    21300686: g22505.png
+    21300688: g22233.png
+    21300690: g22223.png
+    21300692: g22213.png
+    21300694: g22203.png
+    21300696: g22098.png
+    21300698: g22076.png
+    21300700: g22065.png
+    21300702: g21796.png
+    21300704: g21786.png
+    21300706: g21776.png
+    21300708: g21766.png
+    21300710: g21754.png
+    21300712: g21742.png
+    21300714: g21730.png
+    21300716: g21718.png
+    21300718: g21708.png
+    21300720: g21698.png
+    21300722: g21688.png
+    21300724: g21678.png
+    21300726: g21665.png
+    21300728: g21652.png
+    21300730: g21639.png
+    21300732: g21626.png
+    21300734: g21615.png
+    21300736: g21604.png
+    21300738: g21593.png
+    21300740: g21234.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stadium.png
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3420
+        width: 1024
+        height: 675
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bgMenu.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2810
+        width: 1024
+        height: 609
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: title.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2711
+        width: 1024
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g6500.png
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 3711
+        width: 401
+        height: 382
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g6436.png
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3424
+        width: 299
+        height: 285
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8730.png
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 3608
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: image8772.png
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 3514
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23207.png
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 3449
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glove_icon.png
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 3161
+        width: 256
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rect8262.png
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 3365
+        width: 131
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rect8180.png
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 3308
+        width: 131
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rect12695.png
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3251
+        width: 131
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23196.png
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 3186
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23185.png
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 3185
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: image8728.png
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 3089
+        width: 256
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23124.png
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 3094
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23110.png
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 3093
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8919.png
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2986
+        width: 235
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g9922.png
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 3022
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8974.png
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 2921
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8964.png
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2920
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23096.png
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2919
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8954.png
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2856
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8944.png
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2855
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23081.png
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2854
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8933.png
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2791
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8922.png
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2726
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8911.png
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 2790
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23066.png
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2789
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8900.png
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2725
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23051.png
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2724
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8890.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2646
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8880.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2645
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8870.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2644
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8857.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2643
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8837.png
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2642
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8827.png
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2641
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8814.png
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2640
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8005.png
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2639
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7996.png
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2638
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23042.png
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2637
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7927.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2582
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7888.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2581
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7831.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2580
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7810.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2579
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7227.png
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2578
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7208.png
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2577
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7199.png
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2576
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7153.png
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2575
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7134.png
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2574
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23033.png
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2573
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7118.png
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 4029
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7100.png
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 3964
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7087.png
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3899
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7055.png
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 3834
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g7031.png
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 3769
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18872.png
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 3704
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18862.png
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 3639
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18852.png
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 3574
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18842.png
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 3509
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18800.png
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 3444
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18790.png
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3379
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18780.png
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 3314
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18770.png
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3249
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18758.png
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 3184
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18746.png
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 3119
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18734.png
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 3054
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18722.png
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2989
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18709.png
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 2924
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18687.png
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2859
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18648.png
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2794
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18632.png
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2729
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18622.png
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 2664
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18612.png
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2599
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18601.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2518
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18590.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2517
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18579.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2516
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18568.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2515
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18558.png
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2514
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18548.png
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2513
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18538.png
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2512
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18528.png
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2511
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18506.png
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2510
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18495.png
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2509
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23024.png
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2508
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18484.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2454
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18473.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2453
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18462.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2452
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18451.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2451
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18440.png
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2450
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18430.png
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2449
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18420.png
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2448
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18410.png
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2447
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18400.png
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2446
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18388.png
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2445
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23015.png
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2444
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18376.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2390
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18364.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2389
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18352.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2388
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18341.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2387
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18330.png
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2386
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18319.png
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2385
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18308.png
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2384
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18210.png
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2383
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18192.png
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2382
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18174.png
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2381
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23006.png
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2380
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g18156.png
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 4029
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g16569.png
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 3964
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g16559.png
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 3899
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g16549.png
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 3834
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g16539.png
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 3769
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g16517.png
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 3704
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g16507.png
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 3639
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g16497.png
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 3574
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g15127.png
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 3509
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g15115.png
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 3444
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g15103.png
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 3379
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g15091.png
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 3314
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g15079.png
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 3249
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g15067.png
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 3184
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g15055.png
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 3119
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g15041.png
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 3054
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14951.png
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 2989
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14941.png
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2924
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14931.png
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 2859
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14921.png
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 2794
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14909.png
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 2729
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14897.png
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2664
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14886.png
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2599
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14875.png
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 2534
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14795.png
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2469
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14783.png
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2404
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14771.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2326
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14759.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2325
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14749.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2324
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14737.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2323
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14727.png
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2322
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14717.png
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2321
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14634.png
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2320
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14624.png
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2319
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14611.png
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2318
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14601.png
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2317
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14589.png
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2316
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22997.png
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 2315
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14577.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2262
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14565.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2261
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14553.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2260
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14154.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2259
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14141.png
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2258
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14131.png
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2257
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14121.png
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2256
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14111.png
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2255
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14101.png
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2254
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14088.png
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2253
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g14075.png
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2252
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22987.png
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 2251
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g13906.png
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 4029
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g13895.png
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 3964
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g13884.png
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3899
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g13873.png
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 3834
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g13862.png
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3769
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g13851.png
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3704
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g13840.png
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3639
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g13829.png
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 3574
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11217.png
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 3509
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11207.png
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 3444
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11197.png
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3379
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11187.png
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 3314
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11176.png
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 3249
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11165.png
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 3184
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11154.png
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 3119
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11143.png
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 3054
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11132.png
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 2989
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11121.png
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 2924
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11110.png
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2859
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11099.png
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 2794
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11089.png
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 2729
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11079.png
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2664
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11069.png
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2599
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11059.png
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 2534
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11049.png
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 2469
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11039.png
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 2404
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11029.png
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 2339
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11019.png
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2274
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g11008.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2198
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10997.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2197
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10986.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2196
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10975.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2195
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10748.png
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2194
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10736.png
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2193
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10726.png
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2192
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10716.png
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2191
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10702.png
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2190
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10688.png
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2189
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10674.png
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2188
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10660.png
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 2187
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22978.png
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 2186
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10521.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2134
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10511.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2133
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10501.png
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2132
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10491.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2131
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10319.png
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2130
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10304.png
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2129
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10289.png
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2128
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g10274.png
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2127
+        width: 147
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22969.png
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2126
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22960.png
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 2125
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22950.png
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2124
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22940.png
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 2123
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22930.png
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 2122
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22920.png
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 2121
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22870.png
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 2120
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22860.png
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 2119
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22850.png
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 2118
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22840.png
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 2117
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g8774.png
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 3964
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22830.png
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 3898
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22087.png
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 3900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22820.png
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 3833
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22810.png
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 3768
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22799.png
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 3703
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22782.png
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 3638
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22772.png
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3573
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22762.png
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 3508
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22752.png
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 3443
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22741.png
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 3378
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22730.png
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 3313
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22719.png
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 3248
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22708.png
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 3183
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22698.png
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 3118
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22688.png
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 3053
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22678.png
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 2988
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22668.png
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 2923
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22494.png
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 2858
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22483.png
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2793
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22472.png
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 2728
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22461.png
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2663
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22447.png
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 2598
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22433.png
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 2533
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22421.png
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 2468
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22409.png
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 2403
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22399.png
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 2338
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22389.png
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 2273
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22379.png
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 2208
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22369.png
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 2143
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22357.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2070
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22347.png
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2069
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22337.png
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2068
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22327.png
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2067
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22316.png
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2066
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22305.png
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2065
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22294.png
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2064
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22283.png
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2063
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22273.png
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2062
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22263.png
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2061
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22253.png
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2060
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22243.png
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2059
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22191.png
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2058
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22179.png
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2057
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22167.png
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 2056
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22155.png
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2055
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22142.png
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 2054
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22131.png
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2053
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22120.png
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 2052
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22109.png
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 2051
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22053.png
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2050
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22041.png
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 2049
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22029.png
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2048
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22017.png
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2047
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22007.png
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2046
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21997.png
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 2045
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21988.png
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2044
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21978.png
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2043
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21967.png
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 2042
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21956.png
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2041
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21945.png
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 4029
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21934.png
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 3964
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21924.png
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 3899
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21914.png
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3834
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21904.png
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 3769
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21894.png
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3704
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21882.png
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 3639
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21870.png
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 3574
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21858.png
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 3509
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21846.png
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 3444
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21836.png
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 3379
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21826.png
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 3314
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21816.png
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 3249
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21806.png
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 3184
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21584.png
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 3119
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21574.png
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 3054
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21564.png
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2989
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21554.png
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 2924
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21544.png
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2859
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21535.png
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2794
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21526.png
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 2729
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21515.png
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 2664
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21504.png
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 2599
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21493.png
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 2534
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21483.png
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 2469
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21473.png
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 2404
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21463.png
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 2339
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21453.png
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2274
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21443.png
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 2209
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21433.png
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 2144
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21423.png
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 2079
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21413.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2006
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21396.png
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2005
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21379.png
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2004
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21362.png
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2003
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21345.png
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2002
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21334.png
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2001
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21323.png
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2000
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21298.png
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1999
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21281.png
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1998
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21272.png
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1997
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21263.png
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1996
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21245.png
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1995
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g9452.png
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1994
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g9444.png
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1993
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g9436.png
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1992
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g9392.png
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1991
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23220.png
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1990
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23174.png
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1989
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23163.png
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1988
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23150.png
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1987
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g23138.png
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1986
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22910.png
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1985
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22900.png
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22890.png
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1983
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22880.png
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1982
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22658.png
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1981
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22648.png
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1980
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22638.png
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1979
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22628.png
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1978
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22615.png
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1977
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22581.png
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22570.png
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 4029
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22553.png
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 3964
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22541.png
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 3899
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22529.png
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 3834
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22517.png
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 3769
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22505.png
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22233.png
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 3639
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22223.png
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 3574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22213.png
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 3509
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22203.png
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 3444
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22098.png
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 3379
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22076.png
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 3314
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g22065.png
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 3249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21796.png
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 3184
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21786.png
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 3119
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21776.png
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 3054
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21766.png
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 2989
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21754.png
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2924
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21742.png
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2859
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21730.png
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 2794
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21718.png
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 2729
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21708.png
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 2664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21698.png
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2599
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21688.png
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2534
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21678.png
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 2469
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21665.png
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 2404
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21652.png
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2339
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21639.png
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 2274
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21626.png
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 2209
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21615.png
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 2144
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21604.png
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 2079
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21593.png
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 2014
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g21234.png
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

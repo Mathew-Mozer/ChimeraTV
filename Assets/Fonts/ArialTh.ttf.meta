@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2cd0f684081ba364c9b54a9f3b3f40cc
+timeCreated: 1519292414
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arial Th
+  fontNames:
+  - Arial Th
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

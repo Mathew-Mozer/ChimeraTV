@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "861035877293",
+    "firebase_url": "https://chimeratvhome.firebaseio.com",
+    "project_id": "chimeratvhome",
+    "storage_bucket": "chimeratvhome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861035877293:android:559407837d63fc05",
+        "android_client_info": {
+          "package_name": "typhonpacific.com.chimeratvhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861035877293-8lqfpgocnntvmummcc81rjiccc35e1j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "typhonpacific.com.chimeratvhome",
+            "certificate_hash": "347ac4ece1fc55512b7703541a1963b8f49cda32"
+          }
+        },
+        {
+          "client_id": "861035877293-1k7a0fj3njs8rtbro0u8qpsebg0cg9l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwvEC41i9pXUAQfc_DttaxmLrFJhyemhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861035877293-1k7a0fj3njs8rtbro0u8qpsebg0cg9l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861035877293:android:9b6edbfbb0850ab2",
+        "android_client_info": {
+          "package_name": "com.typhonpacific.ChimeraTV"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861035877293-1k7a0fj3njs8rtbro0u8qpsebg0cg9l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwvEC41i9pXUAQfc_DttaxmLrFJhyemhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

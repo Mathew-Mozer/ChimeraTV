@@ -1,0 +1,839 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &199458
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 481900}
+  - 114: {fileID: 11433472}
+  m_Layer: 0
+  m_Name: gem4x
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &481900
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 199458}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11433472
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 199458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: c87b95c7e1474504fbf47823abc2043e, type: 2}
+  mSprites:
+  - name: 6469616d6f6e645f76617269616e745f315f31403478
+    x: 0
+    y: 739
+    width: 115
+    height: 142
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 18
+    paddingBottom: 16
+  - name: 6469616d6f6e645f76617269616e745f315f3130403478
+    x: 0
+    y: 170
+    width: 115
+    height: 141
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 19
+    paddingBottom: 16
+  - name: 6469616d6f6e645f76617269616e745f315f3131403478
+    x: 0
+    y: 454
+    width: 115
+    height: 141
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 18
+    paddingBottom: 17
+  - name: 6469616d6f6e645f76617269616e745f315f3132403478
+    x: 0
+    y: 28
+    width: 115
+    height: 141
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 19
+    paddingBottom: 16
+  - name: 6469616d6f6e645f76617269616e745f315f32403478
+    x: 116
+    y: 883
+    width: 115
+    height: 141
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 19
+    paddingBottom: 16
+  - name: 6469616d6f6e645f76617269616e745f315f33403478
+    x: 232
+    y: 883
+    width: 115
+    height: 141
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 18
+    paddingBottom: 17
+  - name: 6469616d6f6e645f76617269616e745f315f34403478
+    x: 0
+    y: 596
+    width: 115
+    height: 142
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 18
+    paddingBottom: 16
+  - name: 6469616d6f6e645f76617269616e745f315f35403478
+    x: 348
+    y: 883
+    width: 115
+    height: 141
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 19
+    paddingBottom: 16
+  - name: 6469616d6f6e645f76617269616e745f315f36403478
+    x: 464
+    y: 883
+    width: 115
+    height: 141
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 18
+    paddingBottom: 17
+  - name: 6469616d6f6e645f76617269616e745f315f37403478
+    x: 580
+    y: 883
+    width: 115
+    height: 141
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 19
+    paddingBottom: 16
+  - name: 6469616d6f6e645f76617269616e745f315f38403478
+    x: 0
+    y: 312
+    width: 115
+    height: 141
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 18
+    paddingBottom: 17
+  - name: 6469616d6f6e645f76617269616e745f315f39403478
+    x: 0
+    y: 882
+    width: 115
+    height: 142
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 18
+    paddingBottom: 16
+  - name: 6469616d6f6e645f76617269616e745f31305f31403478
+    x: 607
+    y: 310
+    width: 95
+    height: 138
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31305f3130403478
+    x: 247
+    y: 176
+    width: 95
+    height: 139
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 2
+  - name: 6469616d6f6e645f76617269616e745f31305f3131403478
+    x: 511
+    y: 32
+    width: 95
+    height: 138
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31305f3132403478
+    x: 511
+    y: 171
+    width: 95
+    height: 138
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31305f32403478
+    x: 703
+    y: 173
+    width: 95
+    height: 136
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31305f33403478
+    x: 511
+    y: 310
+    width: 95
+    height: 138
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31305f34403478
+    x: 247
+    y: 37
+    width: 95
+    height: 138
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31305f35403478
+    x: 799
+    y: 311
+    width: 95
+    height: 137
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 4
+  - name: 6469616d6f6e645f76617269616e745f31305f36403478
+    x: 607
+    y: 171
+    width: 95
+    height: 138
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31305f37403478
+    x: 607
+    y: 32
+    width: 95
+    height: 138
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 3
+    paddingBottom: 4
+  - name: 6469616d6f6e645f76617269616e745f31305f38403478
+    x: 895
+    y: 311
+    width: 95
+    height: 137
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 4
+  - name: 6469616d6f6e645f76617269616e745f31305f39403478
+    x: 703
+    y: 310
+    width: 95
+    height: 138
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31315f31403478
+    x: 649
+    y: 552
+    width: 135
+    height: 102
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31315f3130403478
+    x: 783
+    y: 450
+    width: 135
+    height: 101
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: 6469616d6f6e645f76617269616e745f31315f3131403478
+    x: 785
+    y: 552
+    width: 135
+    height: 102
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31315f3132403478
+    x: 375
+    y: 449
+    width: 135
+    height: 102
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31315f32403478
+    x: 375
+    y: 346
+    width: 135
+    height: 102
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31315f33403478
+    x: 375
+    y: 243
+    width: 135
+    height: 102
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31315f34403478
+    x: 375
+    y: 140
+    width: 135
+    height: 102
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31315f35403478
+    x: 375
+    y: 37
+    width: 135
+    height: 102
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31315f36403478
+    x: 375
+    y: 552
+    width: 136
+    height: 102
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31315f37403478
+    x: 647
+    y: 449
+    width: 135
+    height: 102
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31315f38403478
+    x: 511
+    y: 449
+    width: 135
+    height: 102
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f31315f39403478
+    x: 512
+    y: 552
+    width: 136
+    height: 102
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f335f31403478
+    x: 116
+    y: 423
+    width: 130
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f335f3130403478
+    x: 116
+    y: 538
+    width: 130
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f335f3131403478
+    x: 116
+    y: 768
+    width: 130
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f335f3132403478
+    x: 827
+    y: 910
+    width: 130
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f335f32403478
+    x: 116
+    y: 308
+    width: 130
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f335f33403478
+    x: 696
+    y: 910
+    width: 130
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f335f34403478
+    x: 116
+    y: 193
+    width: 130
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f335f35403478
+    x: 116
+    y: 78
+    width: 130
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f335f36403478
+    x: 247
+    y: 768
+    width: 130
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f335f37403478
+    x: 378
+    y: 768
+    width: 130
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f335f38403478
+    x: 509
+    y: 768
+    width: 130
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f335f39403478
+    x: 116
+    y: 653
+    width: 130
+    height: 114
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f385f31403478
+    x: 503
+    y: 655
+    width: 127
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f385f3130403478
+    x: 768
+    y: 769
+    width: 127
+    height: 113
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 2
+  - name: 6469616d6f6e645f76617269616e745f385f3131403478
+    x: 247
+    y: 655
+    width: 127
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f385f3132403478
+    x: 887
+    y: 655
+    width: 127
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f385f32403478
+    x: 896
+    y: 769
+    width: 127
+    height: 113
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 2
+  - name: 6469616d6f6e645f76617269616e745f385f33403478
+    x: 247
+    y: 429
+    width: 127
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f385f34403478
+    x: 631
+    y: 655
+    width: 127
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f385f35403478
+    x: 375
+    y: 655
+    width: 127
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f385f36403478
+    x: 247
+    y: 542
+    width: 127
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f385f37403478
+    x: 759
+    y: 655
+    width: 127
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  - name: 6469616d6f6e645f76617269616e745f385f38403478
+    x: 640
+    y: 769
+    width: 127
+    height: 113
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 2
+  - name: 6469616d6f6e645f76617269616e745f385f39403478
+    x: 247
+    y: 316
+    width: 127
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 3
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 199458}
+  m_IsPrefabParent: 1

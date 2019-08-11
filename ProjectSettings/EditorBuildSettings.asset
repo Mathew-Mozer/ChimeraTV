@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/login.unity
+    guid: 80bc4f1849de00542b1daa50f44ae254
+  - enabled: 1
+    path: Assets/_Scenes/HHBoard.unity
+    guid: 4bcd1b7a0a78c8a4891bb737292be3d7
+  - enabled: 1
+    path: Assets/_Scenes/HHViewer.unity
+    guid: 2472d4ddb96ceab4d832ead354547147
+  - enabled: 1
+    path: Assets/_Scenes/TreasureCrate.unity
+    guid: 19aadf29eb6638f458250d023e2b03a3
+  - enabled: 1
+    path: Assets/_Scenes/PointsGT.unity
+    guid: 64bfcd627a062b143b4653025a34d2ad
+  - enabled: 1
+    path: Assets/_Scenes/PictureSlideShow.unity
+    guid: eee9e89640c311449ba342ee88bb3555
+  - enabled: 1
+    path: Assets/_Scenes/LockScreen.unity
+    guid: ae39dd143da34454ea9e93cc2c81bf09
+  - enabled: 1
+    path: Assets/_Scenes/HourlyHHViewer.unity
+    guid: 38b0bc93f911aa844bbf698cc3add079
+  - enabled: 1
+    path: Assets/_Scenes/PrizeEvent.unity
+    guid: 8862e3e3c8c14944fb145f2a1cce2b36
+  - enabled: 1
+    path: Assets/_Scenes/HHPlaces.unity
+    guid: ab14c6f85642dd842a21278d1d142237
+  - enabled: 1
+    path: Assets/_Scenes/GemHunter.unity
+    guid: 604d5ff412c98174f9ebabba2e1ef9bc
+  - enabled: 1
+    path: Assets/_Scenes/KickForCash.unity
+    guid: 1589e7b1569365f48890c4de40cc9038
+  - enabled: 1
+    path: Assets/_Scenes/MonteCarloGrid.unity
+    guid: 65badc9ddfeab824e9f2de186d080ce3
+  - enabled: 1
+    path: Assets/_Scenes/MMBoard.unity
+    guid: df6ce19ea08f5f1469a9b423babc5f46
+  - enabled: 1
+    path: Assets/_Scenes/TimeTarget.unity
+    guid: 8fe7645a8a06bae4690c102edb9f582a
+  - enabled: 1
+    path: Assets/_Scenes/TimeTargetMultiple.unity
+    guid: 86162759540c54046930a615d3761a24
+  - enabled: 1
+    path: Assets/_Scenes/RestaurantMenu.unity
+    guid: 1dd54cb5a609f7e4e91108aa61ad279f
+  - enabled: 1
+    path: Assets/_Scenes/DisplayList.unity
+    guid: 1c12fd8c69d9c2c4b8ce0c41cb75575b
